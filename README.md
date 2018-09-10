@@ -5,3 +5,4 @@ My Blog
 2. [Macosx git一直提示输入'yes' or 'no'](https://github.com/Tinker-S/my-blog/issues/2)
 3. [接入firebase一直提示版本冲突](https://github.com/Tinker-S/my-blog/issues/4)
 4. [Dart language tour学习笔记](https://github.com/Tinker-S/my-blog/issues/5)
+4. [ReactJS学习笔记](https://github.com/Tinker-S/my-blog/issues/6)
