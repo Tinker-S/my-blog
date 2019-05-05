@@ -39,3 +39,4 @@
 - [How to Build a Simple Weather App in Flutter](https://dragosholban.com/2018/07/01/how-to-build-a-simple-weather-app-in-flutter/)
 - [知乎 Android 客户端组件化实践](https://www.jianshu.com/p/f1aeb0369746)
 - [Structured concurrency](https://medium.com/@elizarov/structured-concurrency-722d765aa952)
+- [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
