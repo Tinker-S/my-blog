@@ -43,3 +43,4 @@
 - [Android 性能优化系列 - 01 手把手教你使用 systrace](https://www.jianshu.com/p/19b3245207e8)
 - [连载 | 深入理解Gradle框架之一：Plugin, Extension, buildSrc](https://mp.weixin.qq.com/s/mDCTtQZb6mhWOFAvLYKBSg)
 - [Flutter + Dart Tips](https://medium.com/flutter-community/1-flutter-dart-tips-830854c3a418)
+- [网易新闻客户端Flutter混合开发实践](https://mp.weixin.qq.com/s/a0in4DqB8Bay046knkRr1g)
