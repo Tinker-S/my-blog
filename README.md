@@ -10,6 +10,7 @@
 
 ## 一些好文章分享
 
+- [聪明人是怎样用“OKR法”实现目标的？](https://mp.weixin.qq.com/s/rnYHBCZy6HeEH-QVS3MWqg)
 - [How do Kotlin DSL libraries work?](https://brunoaybar.com/how-do-kotlin-dsl-libraries-work)
 - [Qrcode tutorial](https://www.thonky.com/qr-code-tutorial/)
 - [Online tutorials on LaTeX](http://www.tug.org/tutorials/tugindia/)
