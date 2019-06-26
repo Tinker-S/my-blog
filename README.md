@@ -10,6 +10,7 @@
 
 ## 一些好文章分享
 
+- [What Are Kotlin Contracts and How Are They Useful?](https://pspdfkit.com/blog/2018/kotlin-contracts/)
 - [Understanding Kotlin contracts](https://blog.kotlin-academy.com/understanding-kotlin-contracts-f255ded41ef2)
 - [Kotlin: Don’t just use LET for null check](https://medium.com/@elye.project/kotlin-dont-just-use-let-7e91f544e27f?sk=6d8d04c5c00613f20e20fe057b3ebd51)
 - [聪明人是怎样用“OKR法”实现目标的？](https://mp.weixin.qq.com/s/rnYHBCZy6HeEH-QVS3MWqg)
