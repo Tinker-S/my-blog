@@ -12,6 +12,7 @@
 
 ## 一些好文章分享
 
+- [https://blog.csdn.net/u011387817/article/details/81875021](Android自定义LayoutManager)
 - [OpenGL/OpenGL ES 入门系列文章](https://juejin.im/post/5cd9816f6fb9a032297b1e1a)
 - [Introduction to Coroutines and Channels](https://play.kotlinlang.org/hands-on/Introduction%20to%20Coroutines%20and%20Channels/01_Introduction)
 - [Android 基于 Choreographer 的渲染机制详解](https://www.androidperformance.com/2019/10/22/Android-Choreographer)
