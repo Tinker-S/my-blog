@@ -8,6 +8,7 @@
 4. [Dart language tour学习笔记](https://github.com/Tinker-S/my-blog/issues/5)
 5. [ReactJS学习笔记](https://github.com/Tinker-S/my-blog/issues/6)
 6. [Vim常用编辑命令记录](https://github.com/Tinker-S/my-blog/issues/7)
+7. [Emacs报错：Listing directory failed but ‘access-file’ worked](https://github.com/Tinker-S/my-blog/issues/8)
 
 
 ## 一些好文章分享
