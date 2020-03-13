@@ -2,17 +2,18 @@
 
 ## 原创
 
-1. [升级系统到Ubuntu 16.04 编译安卓源码报错](https://github.com/Tinker-S/my-blog/issues/1)
-2. [Macosx git一直提示输入'yes' or 'no'](https://github.com/Tinker-S/my-blog/issues/2)
-3. [接入firebase一直提示版本冲突](https://github.com/Tinker-S/my-blog/issues/4)
-4. [Dart language tour学习笔记](https://github.com/Tinker-S/my-blog/issues/5)
-5. [ReactJS学习笔记](https://github.com/Tinker-S/my-blog/issues/6)
-6. [Vim常用编辑命令记录](https://github.com/Tinker-S/my-blog/issues/7)
-7. [Emacs报错：Listing directory failed but ‘access-file’ worked](https://github.com/Tinker-S/my-blog/issues/8)
+- [升级系统到Ubuntu 16.04 编译安卓源码报错](https://github.com/Tinker-S/my-blog/issues/1)
+- [Macosx git一直提示输入'yes' or 'no'](https://github.com/Tinker-S/my-blog/issues/2)
+- [接入firebase一直提示版本冲突](https://github.com/Tinker-S/my-blog/issues/4)
+- [Dart language tour学习笔记](https://github.com/Tinker-S/my-blog/issues/5)
+- [ReactJS学习笔记](https://github.com/Tinker-S/my-blog/issues/6)
+- [Vim常用编辑命令记录](https://github.com/Tinker-S/my-blog/issues/7)
+- [Emacs报错：Listing directory failed but ‘access-file’ worked](https://github.com/Tinker-S/my-blog/issues/8)
 
 
 ## 一些好文章分享
 
+- [抖音BoostMultiDex优化实践：Android低版本上APP首次启动时间减少80%（一）](https://mp.weixin.qq.com/s/jINCbTJ5qMaD6NdeGBHEwQ)
 - [Android自定义LayoutManager](https://blog.csdn.net/u011387817/article/details/81875021)
 - [OpenGL/OpenGL ES 入门系列文章](https://juejin.im/post/5cd9816f6fb9a032297b1e1a)
 - [Introduction to Coroutines and Channels](https://play.kotlinlang.org/hands-on/Introduction%20to%20Coroutines%20and%20Channels/01_Introduction)
