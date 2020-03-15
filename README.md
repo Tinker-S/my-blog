@@ -13,6 +13,7 @@
 
 ## 一些好文章分享
 
+- [Android触摸事件全过程分析](http://susion.work/2019/02/28/android%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/framework/Android%E8%A7%A6%E6%91%B8%E4%BA%8B%E4%BB%B6%E5%85%A8%E8%BF%87%E7%A8%8B%E5%88%86%E6%9E%90/)
 - [抖音BoostMultiDex优化实践：Android低版本上APP首次启动时间减少80%（一）](https://mp.weixin.qq.com/s/jINCbTJ5qMaD6NdeGBHEwQ)
 - [Android自定义LayoutManager](https://blog.csdn.net/u011387817/article/details/81875021)
 - [OpenGL/OpenGL ES 入门系列文章](https://juejin.im/post/5cd9816f6fb9a032297b1e1a)
