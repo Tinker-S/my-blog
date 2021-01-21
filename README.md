@@ -13,6 +13,7 @@
 
 ## 一些好文章分享
 
+- [How to implement a programming language in JavaScript](http://lisperator.net/pltut/)
 - [How to Create a Chrome Extension](https://thecodingpie.com/post/how-to-create-a-chrome-extension-thecodingpie/)
 - [A cautionary tale on Android: do not call System.exit()](https://proandroiddev.com/a-cautionary-tale-on-android-do-not-call-system-exit-5279e0d5dbe0)
 - [10个不到500行代码的超牛Python 练手项目](https://mp.weixin.qq.com/s?__biz=MjM5OTMxMzA4NQ==&mid=2655938352&idx=1&sn=240c9fc57b5d461cdff60f3172410c2d&chksm=bc87ace28bf025f4c10156abe57549238a859e0d2c3ba9bd279154736e1cafc87ba7ac8b91d1&scene=21#wechat_redirect)
