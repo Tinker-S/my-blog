@@ -13,6 +13,7 @@
 
 ## 一些好文章分享
 
+- [zipflinger导致的UnsatisfiedLinkError分析](https://my.oschina.net/redhouse/blog/4893853)
 - [How to implement a programming language in JavaScript](http://lisperator.net/pltut/)
 - [How to Create a Chrome Extension](https://thecodingpie.com/post/how-to-create-a-chrome-extension-thecodingpie/)
 - [A cautionary tale on Android: do not call System.exit()](https://proandroiddev.com/a-cautionary-tale-on-android-do-not-call-system-exit-5279e0d5dbe0)
