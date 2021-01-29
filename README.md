@@ -13,6 +13,7 @@
 
 ## 一些好文章分享
 
+- [7 common mistakes you might be making when using Kotlin Coroutines](https://www.lukaslechner.com/7-common-mistakes-you-might-be-making-when-using-kotlin-coroutines/)
 - [Why I Chose Emacs as My New Text Editor](https://takeonrules.com/2020/10/18/why-i-chose-emacs-as-my-new-text-editor/)
 - [zipflinger导致的UnsatisfiedLinkError分析](https://my.oschina.net/redhouse/blog/4893853)
 - [How to implement a programming language in JavaScript](http://lisperator.net/pltut/)
