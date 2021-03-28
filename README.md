@@ -13,6 +13,7 @@
 
 ## 一些好文章分享
 
+- [Flutter Framework 源码解析（ 1 ）—— 开篇和绘图引擎的用法](https://xieguanglei.github.io/blog/post/flutter-code-chapter-01.html)
 - [How to Write Fast(er) Emacs Lisp](https://nullprogram.com/blog/2017/01/30/)
 - [7 common mistakes you might be making when using Kotlin Coroutines](https://www.lukaslechner.com/7-common-mistakes-you-might-be-making-when-using-kotlin-coroutines/)
 - [Why I Chose Emacs as My New Text Editor](https://takeonrules.com/2020/10/18/why-i-chose-emacs-as-my-new-text-editor/)
