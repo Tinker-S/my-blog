@@ -13,6 +13,7 @@
 
 ## 一些好文章分享
 
+- [程序员容易忽略的 10 大软件开发定律](https://www.infoq.cn/article/wZwbduJ3ErQ38VBEBs8t)
 - [Flutter Framework 源码解析（ 1 ）—— 开篇和绘图引擎的用法](https://xieguanglei.github.io/blog/post/flutter-code-chapter-01.html)
 - [How to Write Fast(er) Emacs Lisp](https://nullprogram.com/blog/2017/01/30/)
 - [7 common mistakes you might be making when using Kotlin Coroutines](https://www.lukaslechner.com/7-common-mistakes-you-might-be-making-when-using-kotlin-coroutines/)
