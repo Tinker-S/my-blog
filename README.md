@@ -15,6 +15,7 @@
 
 - [程序员容易忽略的 10 大软件开发定律](https://www.infoq.cn/article/wZwbduJ3ErQ38VBEBs8t)
 - [Flutter Framework 源码解析（ 1 ）—— 开篇和绘图引擎的用法](https://xieguanglei.github.io/blog/post/flutter-code-chapter-01.html)
+- [Android 重学系列 资源管理系统 资源的初始化加载(上)](https://yjy239.github.io/2019/11/03/android-chong-xue-xi-lie-zi-yuan-guan-li-xi-tong-zi-yuan-de-chu-shi-hua-jia-zai-shang/)
 - [How to Write Fast(er) Emacs Lisp](https://nullprogram.com/blog/2017/01/30/)
 - [7 common mistakes you might be making when using Kotlin Coroutines](https://www.lukaslechner.com/7-common-mistakes-you-might-be-making-when-using-kotlin-coroutines/)
 - [Why I Chose Emacs as My New Text Editor](https://takeonrules.com/2020/10/18/why-i-chose-emacs-as-my-new-text-editor/)
