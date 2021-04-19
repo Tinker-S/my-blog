@@ -13,6 +13,7 @@
 
 ## 一些好文章分享
 
+- [Compose, Camera and Canvas](https://proandroiddev.com/compose-camera-and-canvas-87b8cfed8cda)
 - [程序员容易忽略的 10 大软件开发定律](https://www.infoq.cn/article/wZwbduJ3ErQ38VBEBs8t)
 - [Flutter Framework 源码解析（ 1 ）—— 开篇和绘图引擎的用法](https://xieguanglei.github.io/blog/post/flutter-code-chapter-01.html)
 - [Android 重学系列 资源管理系统 资源的初始化加载(上)](https://yjy239.github.io/2019/11/03/android-chong-xue-xi-lie-zi-yuan-guan-li-xi-tong-zi-yuan-de-chu-shi-hua-jia-zai-shang/)
