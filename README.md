@@ -13,6 +13,7 @@
 
 ## 一些好文章分享
 
+- [epoll 的本质是什么](https://my.oschina.net/oscpyaqxylk/blog/3052308)
 - [MVI架构快速入门：从双向绑定到单向数据流](https://blog.csdn.net/vitaviva/article/details/109406873)
 - [Compose, Camera and Canvas](https://proandroiddev.com/compose-camera-and-canvas-87b8cfed8cda)
 - [程序员容易忽略的 10 大软件开发定律](https://www.infoq.cn/article/wZwbduJ3ErQ38VBEBs8t)
